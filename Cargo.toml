@@ -16,7 +16,7 @@ pulldown-cmark = "^0.2"
 rand = "^0.6"
 regex = "^1.0"
 relm = "^0.15"
-relm-attributes = "^0.15"
+relm-attributes = "^0.14"
 relm-derive = "^0.15"
 xdg = "^2.1"
 
